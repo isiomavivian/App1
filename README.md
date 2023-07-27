@@ -1,3 +1,3 @@
 # App1
-##welcome to my first app
-this app dose a lot of things
+## welcome to my first app
+This app does a lot of things
